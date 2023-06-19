@@ -1,6 +1,6 @@
 {
-  "name": "mercor-assignment",
   "homepage": "https://ujju2000.github.io/kandanClone/",
+  "name": "mercor-assignment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
