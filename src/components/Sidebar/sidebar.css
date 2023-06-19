@@ -1,7 +1,77 @@
-
 .sidebar {
-  height : calc(100vh - 70px);
-   width : 210px;
-   border-right: 1px solid #DBDBDB;
+  height: calc(100vh - 70px);
+  width: 210px;
+  border-right: 1px solid #DBDBDB;
 }
 
+.thoughtContainer {
+  position: relative;
+  margin: 30px 0px;
+  width: 206px;
+  height: 200px;
+  background: #F5F5F5;;
+  border-radius: 16px;
+  display : flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.thoughtContainer h6 {
+  text-align: center;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #000000;
+
+}
+
+.thoughtContainer p {
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+
+  color: #787486;
+}
+
+.thoughtContainer input {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  background: #FFFFFF;
+  border-radius: 4px;
+  text-align: center;
+  padding : 10px 0;
+  outline : none;
+  border : none;
+}
+
+.bulb {
+  position : absolute;
+  height : 25px;
+  width :20px;
+
+right: 35%;
+top: 35%;
+/* bottom: 19.96%; */
+}
+
+.bulbImg {
+  position : absolute;
+  border-radius: 50%;
+  width: 66px;
+  height: 66px;
+  right: 40%;
+  top: -25%;
+
+background: #F5F5F5;
+}
