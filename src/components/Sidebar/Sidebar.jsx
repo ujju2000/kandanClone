@@ -9,7 +9,7 @@ export default function Sidebar() {
         <Projects />
         <div className="thoughtContainer">
           <div className="bulbImg">
-            <img src="assets/vector.png" alt="" className='bulb'/>
+            <img src="assets/Vector.png" alt="" className='bulb'/>
           </div>
           <h6>Thoughts Time</h6>
           <p>We don’t have any notice for you, till then you can share your thoughts with your peers.</p>
