@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kandan-clone/static/css/main.b4b25461.css",
-    "main.js": "/kandan-clone/static/js/main.b9b9f01a.js",
-    "index.html": "/kandan-clone/index.html",
-    "main.b4b25461.css.map": "/kandan-clone/static/css/main.b4b25461.css.map",
-    "main.b9b9f01a.js.map": "/kandan-clone/static/js/main.b9b9f01a.js.map"
+    "main.css": "/kandanClone/static/css/main.b4b25461.css",
+    "main.js": "/kandanClone/static/js/main.b9b9f01a.js",
+    "index.html": "/kandanClone/index.html",
+    "main.b4b25461.css.map": "/kandanClone/static/css/main.b4b25461.css.map",
+    "main.b9b9f01a.js.map": "/kandanClone/static/js/main.b9b9f01a.js.map"
   },
   "entrypoints": [
     "static/css/main.b4b25461.css",
