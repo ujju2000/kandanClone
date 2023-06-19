@@ -1,0 +1,91 @@
+.card {
+    padding : 30px 15px;
+    background: white;
+    border-radius: 16px;
+    margin: 10px;
+}
+.tag {
+        text-align: center;
+        background: rgba(223, 168, 116, 0.2);
+        border-radius: 4px;
+        padding: 0px 4px;
+        font-size: 12px;
+        font-family: 'Inter';
+        font-weight: 500 !important;
+        color: #D58D49;
+        line-height: 15px;
+}
+.cardHeader {
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.cardTitle {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+color: #0D062D;
+}
+
+
+.imgOrText {
+    
+
+}
+.content {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #787486;
+}
+.cardAvatar {
+    width: 24px;
+height: 24px;
+border: 1px solid #FFFFFF;
+margin-left: -4px;
+}
+.avatars {
+    margin-right: 25%;
+}
+.bottom {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Inter';
+    font-size: 12px;
+    font-weight: 400;
+    color : #787486;
+}
+.textsms {
+    color: #787486;
+    font-size: 20px;
+    margin-right: 2px;
+}
+
+.comments {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.files{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.cardImg {
+    width: 281.68px;
+    height: 110px;
+
+    background : #C4C4C4;
+    border-radius: 8px;
+}

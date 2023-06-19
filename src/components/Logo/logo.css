@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+
+.logo {
+    flex :1;
+    height : 30px;
+    width : 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-right : 1px solid #DBDBDB;
+    border-bottom: 1px solid #DBDBDB;
+    padding: 32px 43px;
+}
+
+.left-side {
+    position : relative;
+    width: 24px;
+    height: 24px;
+}
+
+.vector-1 {
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 8.33%;
+    bottom: 41.67%;
+    background: #5030E5;
+    border-radius: 50%;
+}
+.vector-2 {
+    position: absolute;
+    left: 50%;
+    right: 8.33%;
+    top: 42.54%;
+    bottom: 8.33%;
+    background: #5030E5;
+    opacity: 0.4;
+    border-radius: 50%;
+
+}
+.vector-3{
+    position: absolute;
+    right: 50%;
+    left: 8.33%;
+    top: 42.54%;
+    bottom: 8.33%;
+    background: #5030E5;
+    opacity: 0.4;
+    border-radius: 50%;
+}
+
+.mid-side p{
+    width: 98px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #0D062D;
+}
+
+.right-side {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    
+}
+
+.right-side .material-icons {
+    position: absolute;
+    left: 29.81%;
+    right: 34.39%;
+    top: 12.89%;
+    bottom: 13.88%;
+    color: #787486;
+}
+
+
